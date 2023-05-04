@@ -1,0 +1,8 @@
+[paths]
+excel_file_path = C:\Users\Tyler\python script\sample_test_v2.xlsx
+output_folder_path = C:\Users\Tyler\python script\
+
+[sheet_names]
+Setup_Sheet_Name = Test_Setup
+Details_Sheet_Name = Test Details_Stream
+DAQ_Sheet_Name = DAQ
